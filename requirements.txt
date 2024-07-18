@@ -1,0 +1,8 @@
+ultralytics
+supervision
+opencv-python
+YOLO
+NumPy
+Matplotlib
+Pandas
+ultralytics
