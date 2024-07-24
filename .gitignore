@@ -166,3 +166,5 @@ yolov8n.pt
 models
 runs
 training/football-players-detection-1
+
+output_videos
