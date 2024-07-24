@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 training/yolov5xu.pt
+yolov8n.pt
+models
+runs
+training/football-players-detection-1
