@@ -6,3 +6,4 @@ NumPy
 Matplotlib
 Pandas
 ultralytics
+
