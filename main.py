@@ -18,7 +18,7 @@ def main():
     
     
     #save videos
-    save_video(video_frames, 'output_videos/08fd33_4.avi')
+    save_video(output_video_frames, 'output_videos/08fd33_4.avi')
     
 if __name__ == "__main__":
     main()

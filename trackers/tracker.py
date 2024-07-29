@@ -84,14 +84,14 @@ class Tracker:
         width = get_bbox_wdth(bbox)
         cv2.ellipse(
             frame,
-            center = (x_center, y2)
-            axes = (int(width), int(0.35*width))
-            startAngle=45,
+            center = (x_center, y2),
+            axes = (int(width), int(0.35*width)),
+            angle=0.0,
+            startAngle=-45,
             endAngle=235,
             color = color,
             thickness=2,
             lineType = cv2.LINE_4
-            
         )
         return frame
         
