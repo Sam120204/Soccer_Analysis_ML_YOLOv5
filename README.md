@@ -1,3 +1,10 @@
+### Output Video
+
+Watch the output video below to see the results of the project:
+
+[![Watch the video](https://youtu.be/cuGkvljqws0)](https://youtu.be/cuGkvljqws0)
+
+
 #### Project Overview
 
 This project involves the development of a machine learning model and associated utilities for analyzing soccer videos. The primary tasks include detecting and tracking players, referees, and the ball, as well as assigning ball control to teams and individual players. The following key functionalities are implemented:
