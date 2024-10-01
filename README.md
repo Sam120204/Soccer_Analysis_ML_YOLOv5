@@ -26,7 +26,7 @@ The dataset used for this project can be found on Kaggle at the following link: 
 #### Prerequisites
 
 - Python 3.7+
-- OpenCV
+- OpenCV 
 - YOLO (Ultralytics)
 - Supervision (for ByteTrack)
 - OpenCV
